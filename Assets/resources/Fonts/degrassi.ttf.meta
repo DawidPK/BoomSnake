@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b753a630c8a5710469e698b2ec196a21
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Degrassi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 805d9f36c57b0a545a2135fe2a19aa10, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83dd2eca84feb4f4294dd33c16945cf6, type: 3}
+  m_Name: Mojes_es_kielecko
+  m_EditorClassIdentifier: 
+  EnemyName: Mojes es Kielecko
+  health: 75
+  speed: 8
+  targetRange: 30
+  model: {fileID: 21300000, guid: 980dfea5b030aa748b70e7f8ea6ccdc2, type: 3}
